@@ -1,13 +1,16 @@
-# A-Company-Website-Template
-It's a template of a company website. Only front end part of the project is done, back end work will be added soon. It is complete responsive website. For responsiveness, Bootstrap and CSS Media Query were used.
+# Life Dots Consulting Private Limited
+We offer training, workshops, and expert lectures for students, along with technology solutions to address real-time challenges for our clients, including social media management. Additionally, we provide technical interview services to organizations.
 
-### Packages/Frameworks Used
-- CSS Animation
-- CSS Bootstrap
-- Magnific Popup
-- Owl Carousel
-- Jquery
-- Wow JS
+### Services
+- Workshop on Mobile & WebApp Development
+- Expert Lectures - Careeer Guidance, Interview Process, Resume Building
+- Trainings - Technical training
+- Interviews - Technical assesment
+- UI/UX Design
+- Mobile & Web Apps  Development
 
-Click the link to view the active website: https://ashishpshende.github.io
+Click the link to view the website: https://lifedots.github.io
+
+Developer Portfolio: https://lifedots.github.io
+
 
