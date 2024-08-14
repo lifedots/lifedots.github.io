@@ -9,8 +9,8 @@ We offer training, workshops, and expert lectures for students, along with techn
 - UI/UX Design
 - Mobile & Web Apps  Development
 
-Click the link to view the website: https://lifedots.github.io
+Click the link to view the website: https://lifedotsconsulting.github.io
 
-Developer Portfolio: https://lifedots.github.io
+Developer Portfolio: https://ashishpshende.github.io
 
 

@@ -338,6 +338,7 @@ h4.team-member-designation{
 ====================================== */
 #customers-testimonials{
 	margin-top: -15px;
+	visibility: hidden;
 }
 #testimonial-cover{
 	background-image: url("../img/bg-testimonials.jpg");
