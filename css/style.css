@@ -385,6 +385,9 @@ footer{
 	border-top: 5px solid rgba(0,0,0,0.2);
 	height:770px;
 }
+#contact{
+	margin-top: 75px;
+}
 #contact-left h3, #contact-right h3{
 	color: #fff;
 	font-size: 27px;
